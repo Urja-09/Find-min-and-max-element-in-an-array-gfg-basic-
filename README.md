@@ -1,0 +1,1 @@
+# Find-min-and-max-element-in-an-array-gfg-basic-
